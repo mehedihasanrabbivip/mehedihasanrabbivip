@@ -79,7 +79,7 @@ const mehedi = {
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mehedihasanrabbivip/mehedihasanrabbivip/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/mehedihasanrabbivip/mehedihasanrabbivip/blob/output/github-snake-dark.svg" alt="Snake animation in dark" />
 </p>
 
 ---
