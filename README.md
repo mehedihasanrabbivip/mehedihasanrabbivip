@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Mehedi Hasan Rabbi</h1>
 <p align="center">
-  💻 Frontend Developer | 🇸🇦 Based in Riyadh | ❤️ Passionate about clean UI and smooth UX
+  💻 Frontend Developer ❤️ Passionate about clean UI and smooth UX
 </p>
 
 <p align="center">
@@ -37,16 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehedihasanrabbivip&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehedihasanrabbivip&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🚀 Projects
 
@@ -59,7 +50,7 @@
 
 ```js
 const mehedi = {
-  location: "Riyadh, Saudi Arabia",
+  location: "Saudi Arabia",
   skills: [
     "HTML", "CSS", "Bootstrap", "Tailwind CSS", "Sass",
     "JavaScript (Basic to Intermediate)", "React.js", "Next.js",
