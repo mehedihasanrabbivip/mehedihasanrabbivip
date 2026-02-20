@@ -39,18 +39,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehedihasanrabbivip&show_icons=true&theme=radical" 
-    height="170"
-  />
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehedihasanrabbivip&show_icons=true&theme=radical" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehedihasanrabbivip&layout=compact&theme=radical" 
-    height="170"
-  />
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehedihasanrabbivip&layout=compact&theme=radical" />
 </p>
 
 ---
