@@ -39,11 +39,20 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasanrabbivip&show_icons=true&theme=radical"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mehedihasanrabbivip&show_icons=true&theme=radical&cache_seconds=86400" 
+    alt="Mehedi's GitHub stats"
+    height="170"
+  />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanrabbivip&layout=compact&theme=radical"/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanrabbivip&layout=compact&theme=radical&cache_seconds=86400" 
+    alt="Top Languages"
+    height="170"
+  />
 </p>
 
 ---
